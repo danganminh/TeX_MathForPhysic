@@ -1,0 +1,32 @@
+\contentsline {section}{\numberline {1}Angles}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Find the length of an arc of a circle of radius 5cm subtending a central angle measuring $\mathbf {15^o}$}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Find in degrees the angle subtended at the center of a circle of diameter 50 cm by an arc of length 11 cm}{2}{}%
+\contentsline {subsection}{\numberline {1.3}In a circle of diameter 40 cm the length of a chord is 20 cm. Find the length of minor arc corresponding to the chord.}{2}{}%
+\contentsline {subsection}{\numberline {1.4}A horse is tied to a post by a rope, if the horse moves along a circular path always keeping the rope tight and describe 88 meters when it has traced out $\mathbf {72^o}$ at the center, find the length of the rope}{2}{}%
+\contentsline {section}{\numberline {2}Trigonometry Ratio}{2}{}%
+\contentsline {subsection}{\numberline {2.1}If $\mathbf {\sqrt {3}\tan (\theta )=3\sin (\theta )}$, then find the value of $\mathbf {\sin ^2(\theta )-\cos ^2(\theta )}$ }{2}{}%
+\contentsline {subsection}{\numberline {2.2}In triangle ABC, right angled at B if $\sin A = 1/2$, find the value of \\ (a) $\sin C \cos A - \cos C \sin A$ \\ (b) $\cos A \cos C + \sin A \sin C$ }{2}{}%
+\contentsline {subsection}{\numberline {2.3}If $\mathbf {\theta }$ is an acute angle and $\mathbf {\frac {\sin \theta + 1}{\sin \theta + 1} = \frac {\sqrt {3}+2}{\sqrt {3}-2}}$}{3}{}%
+\contentsline {subsection}{\numberline {2.4}Find the height of the triangle}{3}{}%
+\contentsline {section}{\numberline {3}Trigonometry Angles}{3}{}%
+\contentsline {subsection}{\numberline {3.1}If $\mathbf {\sin (\theta )-\cos (\theta )=1}$, \\ then $\mathbf {\sin (\theta )\cos (\theta )}$ equal}{3}{}%
+\contentsline {subsection}{\numberline {3.2}If $\mathbf {\sin (\theta ) = e^x}$ \\ then $\mathbf {\cos (\theta )}$ equal}{3}{}%
+\contentsline {section}{\numberline {4}Trigonometry Formula}{4}{}%
+\contentsline {subsection}{\numberline {4.1}If $\mathbf {x = sec(\theta ) + \tan (\theta )}$, then $\mathbf {x + \frac {1}{x}=?}$}{4}{}%
+\contentsline {subsection}{\numberline {4.2}$\mathbf {\sqrt {\frac {1-\sin (\theta )}{1+\sin (\theta )}}}$ equal?}{4}{}%
+\contentsline {subsection}{\numberline {4.3}$\mathbf {\frac {\sin (\theta )}{1-\cot (\theta )} + \frac {\cos (\theta )}{1-\tan (\theta )}}$ equal?}{4}{}%
+\contentsline {section}{\numberline {5}Differentiation}{4}{}%
+\contentsline {subsection}{\numberline {5.1}$\mathbf {f(x)=6x^3-9x+4}$}{4}{}%
+\contentsline {subsection}{\numberline {5.2}$\mathbf {f(x)=\sqrt {x} + 8\sqrt [3]{x}} - 2\sqrt [4]{x}$}{4}{}%
+\contentsline {subsection}{\numberline {5.3}$\mathbf {f(x)= 10\sqrt [5]{x^3} - \sqrt {x^7} + 6\sqrt [3]{x^8} - 3}$}{5}{}%
+\contentsline {subsection}{\numberline {5.4}$\mathbf {g(x)=\frac {4x^3-7x+8}{x}}$}{5}{}%
+\contentsline {subsection}{\numberline {5.5}$\mathbf {y = e^{\sqrt {2x+17}}}$}{5}{}%
+\contentsline {subsection}{\numberline {5.6}$\mathbf {y=e^x\ln (5x^3+x^2)}$}{5}{}%
+\contentsline {subsection}{\numberline {5.7}$\mathbf {y = \frac {x^2}{\ln (1-4x^2)}}$}{5}{}%
+\contentsline {subsection}{\numberline {5.8}$\mathbf {y=\frac {\tan (x) + \cot (x)}{\tan (x)-\cot (x)}}$}{5}{}%
+\contentsline {subsection}{\numberline {5.9}Find $\mathbf {\frac {dy}{dx}} \text { for } x^2+y^3=3$}{5}{}%
+\contentsline {subsection}{\numberline {5.10}Find $\mathbf {\frac {dy}{dx}} \text { for } x^2+y^2=2$}{6}{}%
+\contentsline {subsection}{\numberline {5.11}Find $\mathbf {\frac {dy}{dx}} \text { for } 2y^3+4x^2-y=x^6$}{6}{}%
+\contentsline {subsection}{\numberline {5.12}Find $\mathbf {\frac {dy}{dx}} \text { for } 7y^2+\sin (3x)=12-y^4$}{6}{}%
+\contentsline {subsection}{\numberline {5.13}Find $\mathbf {\frac {dy}{dx}} \text { for } xy=1$}{6}{}%
+\contentsline {subsection}{\numberline {5.14}Find $y'$ for each of the follwing}{6}{}%
