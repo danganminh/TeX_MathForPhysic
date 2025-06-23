@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1750438605.72981 "/home/dang/Learn/TeX_PhysicMath/exercise.tex" "exercise.pdf" "exercise" 1750438606.96529 0
-  "/home/dang/Learn/TeX_PhysicMath/exercise.tex" 1750438604.36905 13239 3f32e9fd27cd57fa6af837d999eee4d5 ""
+["pdflatex"] 1750612918.39124 "/home/dang/Learn/TeX_PhysicMath/exercise.tex" "exercise.pdf" "exercise" 1750612919.54606 0
+  "/home/dang/Learn/TeX_PhysicMath/exercise.tex" 1750612915.23428 14994 5655ceebaf9cf36c96d361c37ddec9a8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -103,9 +103,9 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1750436695 5523539 cbe340ff87ac4cfddcdc6361a84e52ac ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1750436780 3599570 47aa6924ce3aacd7044aee6ce2c9898a ""
   "/usr/local/texlive/2025/texmf.cnf" 1750436687.7347 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "exercise.aux" 1750438606.75796 5214 fdb21df4b7e039f4674398ecac9f81e3 "pdflatex"
-  "exercise.tex" 1750438604.36905 13239 3f32e9fd27cd57fa6af837d999eee4d5 ""
-  "exercise.toc" 1750438606.75996 3813 a34e380b7f3d3b2980c2020de0e941d5 "pdflatex"
+  "exercise.aux" 1750612919.38431 5546 5979fd203e60174347f2ccf9edd27915 "pdflatex"
+  "exercise.tex" 1750612915.23428 14994 5655ceebaf9cf36c96d361c37ddec9a8 ""
+  "exercise.toc" 1750612919.38531 4056 86ec672c028200cd870d8e6aa72fc088 "pdflatex"
   "img_exercise/begin-angles6.png" 1750403030 4356 73afef4c67ceca2d21e7161da4f1c90c ""
   "img_exercise/begin-angles7.png" 1750403030 1857 5552e5b300b18b718d7205642056c9ac ""
   "img_exercise/expert-Tr2.png" 1750403030 3842 d7279db9be2eba3d233a40c8641f2380 ""

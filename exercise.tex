@@ -17,6 +17,8 @@
 % List
 \usepackage{enumitem}
 
+\setlength\parindent{0pt}
+
 
 \begin{document}
 
@@ -314,7 +316,7 @@ So, now we have
 
 \end{multicols}
 
-\subsection{Find $y'$ for each of the follwing}
+\subsection{Find $y' = \frac{dy}{dx}$ for each of the follwing}
 \textbf{a)} $x^3y^5 + 3x = 8y^3+1$ \\
 \textbf{b)} $x^2\tan(y) + y^{10}\sec(x)=2x$ \\
 \textbf{c)} $e^{2x+3y} = x^2 - \ln(xy^3)$ \\
@@ -325,9 +327,48 @@ So, now we have
 We have
 \begin{align*}
     &(u.v)'=u'v+v'u \\
-    &\rightarrow 3x^2y^5 + 5x^3y^4\frac{dx}{dy} + 3 = 24y^2\frac{dx}{dy} \\
-    &\leftrightarrow \frac{dx}{dy}(5x^3y^4 - 24y^2) = -3 - 3x^2 + y^5 \\
-    &\rightarrow \frac{dx}{dy} = \frac{-3 - 3x^2 + y^5}{5x^3y^4 - 24y^2}
+    &\rightarrow 3x^2y^5 + 5x^3y^4\frac{dy}{dx} + 3 = 24y^2\frac{dy}{dy} \\
+    &\leftrightarrow \frac{dy}{dy}(5x^3y^4 - 24y^2) = -3 - 3x^2y^5 \\
+    &\rightarrow \frac{dy}{dx} = \frac{-3 - 3x^2y^5}{5x^3y^4 - 24y^2}
 \end{align*}
+
+\textbf{b)} $x^2\tan(y) + y^{10}\sec(x)=2x$ \\
+We have
+\begin{align*}
+    &(uv)' = u'v + v'u \\
+    &\Big(\tan(u)\Big)' = \frac{u'}{\cos^2(u)} \\
+    &\Big(\sec(x)\Big)' = \sec(x).\tan(x) \\
+    \rightarrow &\Big(x^2\tan(y)\Big)' = 2x\tan(y) + \frac{dy/dx}{\cos^2(y)}x^2 \\
+    \rightarrow &\Big(y^{10}\sec(x)\Big)' = 10y^9\frac{dy}{dx}\sec(x) + y^{10}\sec(x)\tan(x)
+\end{align*}
+So, 
+\begin{align*}
+    &2x\tan(y) + \frac{dy/dx}{\cos^2(y)}x^2 + 10y^9\frac{dy}{dx}\sec(x) + y^{10}\sec(x)\tan(x) = 0 \\
+    \rightarrow &\frac{dy/dx}{\cos^2(y)}x^2 + 10y^9\frac{dy}{dx}\sec(x) = -y^{10}\sec(x)\tan(x) - 2x\tan(y) \\
+    \rightarrow &\frac{dy}{dx} = \frac{2-y^{10}\sec(x)\tan(x)-2x\tan(y)}{x^2/\cos^2(y) + 10y^9\sec(x)} \\
+    \rightarrow &\frac{dy}{dx} = \frac{2 - 2x\tan(y) - y^{10}\sec(x)\tan(x)}{x^2\sec^2(y) + 10y^9\sec(x)}
+\end{align*}
+
+
+\textbf{c)} $e^{2x+3y} = x^2 - \ln(xy^3)$ \\
+We have
+\begin{align*}
+    \Big(e^{2x+3y}\Big)' &= \Big(2 + 3\frac{dy}{dx}\Big) e^{2x+3y} \\
+                        &= 2e^{2x+3y} + 3e^{2x+3y}\frac{dy}{dx} \\
+    \Big(\ln(xy^3)\Big)' &= \frac{1}{xy^3}\Big(y^3 + 3xy^2\frac{dy}{dx}\Big) \\
+                        &= \frac{y^3}{xy^3} + \frac{3xy^2(dy/dx)}{xy^3} \\
+                        &= \frac{1}{x} + \frac{3}{y}\frac{dy}{dx}
+\end{align*}
+Now we have
+\begin{align*}
+    &2e^{2x+3y} + 3e^{2x+3y}\frac{dy}{dx} = 2x - \frac{1}{x} - \frac{3}{y}\frac{dy}{dx} \\
+    &\frac{dy}{dx}\Big(3e^{2x+3y} - 3y\Big) = 2x - \frac{1}{x} - 2e^{2x+3y} \\
+    \rightarrow &\frac{dx}{dy} = \frac{2x - 1/x - 2e^{2x+3y}}{3e^{2x+3y} - 3/y}
+\end{align*}
+
+
+\section{Expert Implicit Differentiation}
+
+\subsection{If $x = exp\Bigg[\tan^{-1}\Big(\frac{y-x^2}{x^2}\Big) \Bigg]$ then $\frac{dy}{dx}$ equals}
 
 \end{document}

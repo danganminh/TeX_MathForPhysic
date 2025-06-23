@@ -29,4 +29,6 @@
 \contentsline {subsection}{\numberline {5.11}Find $\mathbf {\frac {dy}{dx}} \text { for } 2y^3+4x^2-y=x^6$}{6}{}%
 \contentsline {subsection}{\numberline {5.12}Find $\mathbf {\frac {dy}{dx}} \text { for } 7y^2+\sin (3x)=12-y^4$}{6}{}%
 \contentsline {subsection}{\numberline {5.13}Find $\mathbf {\frac {dy}{dx}} \text { for } xy=1$}{6}{}%
-\contentsline {subsection}{\numberline {5.14}Find $y'$ for each of the follwing}{6}{}%
+\contentsline {subsection}{\numberline {5.14}Find $y' = \frac {dy}{dx}$ for each of the follwing}{6}{}%
+\contentsline {section}{\numberline {6}Expert Implicit Differentiation}{7}{}%
+\contentsline {subsection}{\numberline {6.1}If $x = exp\Bigg [\tan ^{-1}\Big (\frac {y-x^2}{x^2}\Big ) \Bigg ]$ then $\frac {dy}{dx}$ equals}{7}{}%

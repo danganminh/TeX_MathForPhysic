@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.20)  20 JUN 2025 23:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.20)  23 JUN 2025 00:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -450,22 +450,22 @@ File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
 ) (./exercise.aux)
 \openout1 = `exercise.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -541,12 +541,12 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <./img_exercise/begin-angles6.png, id=20, 377.41pt x 287.0725pt>
 File: ./img_exercise/begin-angles6.png Graphic file (type png)
 <use ./img_exercise/begin-angles6.png>
-Package pdftex.def Info: ./img_exercise/begin-angles6.png  used on input line 46.
+Package pdftex.def Info: ./img_exercise/begin-angles6.png  used on input line 48.
 (pdftex.def)             Requested size: 126.47249pt x 96.19725pt.
 <./img_exercise/begin-angles7.png, id=22, 249.93375pt x 188.705pt>
 File: ./img_exercise/begin-angles7.png Graphic file (type png)
 <use ./img_exercise/begin-angles7.png>
-Package pdftex.def Info: ./img_exercise/begin-angles7.png  used on input line 60.
+Package pdftex.def Info: ./img_exercise/begin-angles7.png  used on input line 62.
 (pdftex.def)             Requested size: 126.47249pt x 95.48962pt.
 
 
@@ -557,10 +557,10 @@ Package pdftex.def Info: ./img_exercise/begin-angles7.png  used on input line 60
 <./img_exercise/expert-Tr2.png, id=23, 158.5925pt x 136.51pt>
 File: ./img_exercise/expert-Tr2.png Graphic file (type png)
 <use ./img_exercise/expert-Tr2.png>
-Package pdftex.def Info: ./img_exercise/expert-Tr2.png  used on input line 92.
+Package pdftex.def Info: ./img_exercise/expert-Tr2.png  used on input line 94.
 (pdftex.def)             Requested size: 101.17645pt x 87.09114pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--100
+Underfull \hbox (badness 10000) in paragraph at lines 97--102
 
  []
 
@@ -582,7 +582,7 @@ Overfull \vbox (57.85002pt too high) has occurred while \output is active []
 <./img_exercise/expert-Tr4.png, id=34, 317.185pt x 169.63374pt>
 File: ./img_exercise/expert-Tr4.png Graphic file (type png)
 <use ./img_exercise/expert-Tr4.png>
-Package pdftex.def Info: ./img_exercise/expert-Tr4.png  used on input line 127.
+Package pdftex.def Info: ./img_exercise/expert-Tr4.png  used on input line 129.
 (pdftex.def)             Requested size: 151.76854pt x 81.1696pt.
 
 
@@ -629,13 +629,15 @@ Overfull \vbox (25.58096pt too high) has occurred while \output is active []
 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--321
+Underfull \hbox (badness 10000) in paragraph at lines 320--323
 
  []
 
 
 
-[6] (./exercise.aux)
+[6]
+
+[7] (./exercise.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-05-26>
@@ -648,12 +650,12 @@ Here is how much of TeX's memory you used:
  33975 multiletter control sequences out of 15000+600000
  644796 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,14n,65p,375b,352s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 70i,14n,65p,375b,350s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/vntex/vnr/vnbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb>
-Output written on exercise.pdf (6 pages, 287960 bytes).
+Output written on exercise.pdf (7 pages, 294999 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 90 compressed objects within 1 object stream
+ 162 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
