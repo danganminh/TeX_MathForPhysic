@@ -25,7 +25,7 @@
 \tableofcontents
 
 \newpage
-\section{Angles}
+\section{Beginner Angles}
 \begin{multicols}{2}
 
 \subsection{Find the length of an arc of a circle of radius 5cm subtending a central angle measuring $\mathbf{15^o}$}
@@ -55,6 +55,8 @@ From formular we have
 \end{align*}
 
 
+\section{Expert Angles}
+
 \subsection{A horse is tied to a post by a rope, if the horse moves along a circular path always keeping the rope tight and describe 88 meters when it has traced out $\mathbf{72^o}$ at the center, find the length of the rope}
 
 \begin{figure}[H]
@@ -70,7 +72,7 @@ we have
 
 \end{multicols}
 
-\section{Trigonometry Ratio}
+\section{Beginner Trigonometry Ratio}
 
 \begin{multicols}{2}
 
@@ -83,6 +85,9 @@ We have
     & \rightarrow \theta = \cos^{-1}{\frac{\sqrt{3}}{3}} \\
     & \rightarrow \sin^2(\theta) - \cos^2(\theta) = \frac{1}{3}
 \end{align*}
+
+
+\section{Expert Trigonometry Ratio}
 
 \subsection{In triangle ABC, right angled at B if $\sin A = 1/2$, find the value of \\
 (a) $\sin C \cos A - \cos C \sin A$ \\
@@ -137,6 +142,10 @@ We have
 \end{multicols}
 
 \section{Trigonometry Angles}
+MISS....
+
+\section{Beginner Trigonometry Formula}
+
 \begin{multicols}{2}
 
 \subsection{If $\mathbf{\sin(\theta)-\cos(\theta)=1}$, \\ then $\mathbf{\sin(\theta)\cos(\theta)}$ equal}
@@ -157,7 +166,7 @@ We have
 \end{multicols}
 
 
-\section{Trigonometry Formula}
+\section{Expert Trigonometry Formula}
 \subsection{If $\mathbf{x = sec(\theta) + \tan(\theta)}$, then $\mathbf{x + \frac{1}{x}=?}$}
 \begin{align*}
     x + \frac{1}{x} &= sec(\theta) + \tan(\theta) + \frac{1}{sec(\theta) + \tan(\theta)} \\
@@ -272,6 +281,8 @@ So, now we have
 
 \begin{multicols}{2}
 
+\section{Beginer Implicit Differentiation}
+
 \subsection{Find $\mathbf{\frac{dy}{dx}} \text{ for } x^2+y^3=3$}
 \noindent Differentiationg both size and aplly chain rule
 \begin{align*}
@@ -370,5 +381,85 @@ Now we have
 \section{Expert Implicit Differentiation}
 
 \subsection{If $x = exp\Bigg[\tan^{-1}\Big(\frac{y-x^2}{x^2}\Big) \Bigg]$ then $\frac{dy}{dx}$ equals}
+
+
+\section{Beginner Application of Differentiation}
+
+\begin{multicols}{2}
+
+\subsection{The radius of a circle is increasing at the rate of 0.7 (cm/s). What is the rate of its circumderence (chu vi)?}
+We have
+\begin{align*}
+    C &= 2\pi R \\
+    \rightarrow \frac{dC}{dR} &= 2\pi R' = 2\pi \times 0.7\\
+    \rightarrow \frac{dC}{dR} &= rate = 1.4\pi \text{ (cm/s)}
+\end{align*}
+
+\subsection{The sides of an equilateral triangle are changing length at the rate of 0.2 cm/s. At what rate is the area changing when the sides are 4 cm?}
+We have
+\begin{align*}
+    S &= \frac{\sqrt{3}}{4}x^2 \\
+    \rightarrow \frac{dS}{dx} &= \frac{\sqrt{3}}{4}.2x.\frac{dx}{dt} = \frac{\sqrt{3}}{4}.2x.(0.2) \\
+    \text{when the sides changing 4 cm} \\
+    \rightarrow \frac{dS}{dx} &= \frac{\sqrt{3}}{4}.2.4.(0.2) = \frac{2\sqrt{3}}{5}
+\end{align*}
+
+
+\subsection{What is the rate of change of the surface area of a shpere when the radius of the sphere is 3 cm and the radius is increasing at 6 cm/s?}
+With surface area of shpere, we have:
+\begin{align*}
+    S &= 4\pi R^2 \\
+    \rightarrow \frac{dS}{dR} &= 4\pi .2.R.\frac{dR}{dt} \\
+                            &= 4\pi .2.3.6 \\
+                            &= 144\pi
+\end{align*}
+
+
+\subsection{A metal ring is being heated so that at any instant of time t in second, its area is given by $A = 3t^2 + \frac{t}{3} + 2$. What will be the rate of increae of area at $t = 10 (s)$}
+We have:
+\begin{align*}
+    \frac{dA}{dt} &= 6t + \frac{1}{3} \\
+    \text{When t = 10s:} \\
+    \rightarrow \frac{dA}{dt} &= 60 + \frac{1}{3} = \frac{181}{3}
+\end{align*}
+
+
+\subsection{Find the slope of the tanget line to $g(x)=\frac{16}{x}-4\sqrt{x}$ at x = 4}
+We have
+\begin{align*}
+    \text{the slope} = g'(x) &= \Big(16x^{-1} - 4x^{1/2}\Big) \\
+                            &= -\frac{16}{x^2} - \frac{2}{\sqrt{x}} \\
+    \text{When x = 4} \\
+    \rightarrow \text{the slope} &= -\frac{16}{4^2} - \frac{2}{\sqrt{4}} = -2
+\end{align*}
+
+
+\subsection{If the surface area of a spherical balloon is increasing at the rate of 900 $\mathbf{cm^2/sec}$. Then the rate of change of radius of balloon at instant when radius is 15 cm [in cm/sec]}
+Aplly the formula surface area of a spherical.
+\begin{align*}
+    S &= 4\pi R^2 \\
+    \frac{dS}{dt} &= 900 = 4\pi.2R\frac{dR}{dt} \\
+    \text{With R = 15 cm} \\
+    \rightarrow \frac{dR}{dt} &= \frac{900}{8\pi . 15} = 2.39 \text{ (cm/s)}
+\end{align*}
+
+\end{multicols}
+
+
+\section{Expert Application of Differentiation}
+
+\begin{multicols}{2}
+    
+\subsection{The volume of a sphere is given by $\mathbf{V = \frac{4}{3}\pi R^3}$. Where R is the radius of the sphere. The rate of change of volume with respect to R and the change in volume of the sphere as the radius 
+is inscread from 20.0 cm to 20.1 cm respectively are (Assume that the rate does not appreciably change between R = 20.0 cm to R = 20.1 cm)}
+We have
+\begin{align*}
+    V &= \frac{4}{3}\pi R^3 \\
+    \rightarrow \frac{dV}{dt} &= 4\pi R^2 \frac{dR}{dt} \\
+    \text{with R = 20 cm, we have} \\
+    \rightarrow \frac{dV}{dt} = 4\pi (20^2) = 1600 \pi.
+\end{align*}
+
+\end{multicols}
 
 \end{document}

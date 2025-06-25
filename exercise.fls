@@ -120,9 +120,9 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/vntex/vnr/vnr7.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/vntex/vnr/vnr5.tfm
-OUTPUT exercise.toc
 OUTPUT exercise.pdf
 INPUT /usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+OUTPUT exercise.toc
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/vntex/vnr/vnr12.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/vntex/vnr/vnbx12.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr12.tfm

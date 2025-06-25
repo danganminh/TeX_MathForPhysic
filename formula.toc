@@ -11,4 +11,5 @@
 \contentsline {section}{\numberline {11}Important formulae of logarithm}{4}{}%
 \contentsline {section}{\numberline {12}Differential Calculus}{4}{}%
 \contentsline {section}{\numberline {13}Integral Calculus}{6}{}%
-\contentsline {section}{\numberline {14}Formulae for Area and Volume}{6}{}%
+\contentsline {section}{\numberline {14}Circumferences}{6}{}%
+\contentsline {section}{\numberline {15}Formulae for Area and Volume}{6}{}%
