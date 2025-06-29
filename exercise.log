@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.20)  25 JUN 2025 22:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.20)  29 JUN 2025 20:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -661,8 +661,31 @@ Overfull \hbox (6.9627pt too wide) detected at line 405
 
 
 
+Underfull \hbox (badness 6220) in paragraph at lines 484--484
+[]\T5/cmr/bx/n/12 Evaluate the in-def-i-nite in-te-gral
+ []
 
-[9] (./exercise.aux)
+
+Overfull \vbox (27.62491pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (27.62491pt too high) has occurred while \output is active []
+
+
+
+
+
+
+
+[9]
+
+
+
+
+
+
+
+[10] (./exercise.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-05-26>
@@ -671,16 +694,16 @@ L3 programming layer <2025-05-26>
 Here is how much of TeX's memory you used:
  5498 strings out of 467886
  83968 string characters out of 5434045
- 524135 words of memory out of 5000000
+ 541137 words of memory out of 5000000
  33975 multiletter control sequences out of 15000+600000
  644796 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,14n,65p,511b,350s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/vntex/vnr/vnbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb>
-Output written on exercise.pdf (9 pages, 307045 bytes).
+Output written on exercise.pdf (10 pages, 316954 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
- 98 compressed objects within 1 object stream
+ 171 PDF objects out of 1000 (max. 8388607)
+ 100 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

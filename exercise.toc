@@ -45,3 +45,11 @@
 \contentsline {subsection}{\numberline {11.6}If the surface area of a spherical balloon is increasing at the rate of 900 $\mathbf {cm^2/sec}$. Then the rate of change of radius of balloon at instant when radius is 15 cm [in cm/sec]}{9}{}%
 \contentsline {section}{\numberline {12}Expert Application of Differentiation}{9}{}%
 \contentsline {subsection}{\numberline {12.1}The volume of a sphere is given by $\mathbf {V = \frac {4}{3}\pi R^3}$. Where R is the radius of the sphere. The rate of change of volume with respect to R and the change in volume of the sphere as the radius is inscread from 20.0 cm to 20.1 cm respectively are (Assume that the rate does not appreciably change between R = 20.0 cm to R = 20.1 cm)}{9}{}%
+\contentsline {subsection}{\numberline {12.2}At the point (1, b) on the curve $\mathbf {y = 2x^3}$, the gradient of the curve is increasing K times as fast as x. Then K = ?}{9}{}%
+\contentsline {section}{\numberline {13}Level 1 Indefinite Integration}{9}{}%
+\contentsline {subsection}{\numberline {13.1}Evaluate the indefinate integral $\mathbf {\DOTSI \intop \ilimits@ (6x^5 - 18x^2 + 7) dx}$}{9}{}%
+\contentsline {subsection}{\numberline {13.2}Evaluate the indefinite integral $\mathbf {\DOTSI \intop \ilimits@ (40x^3 + 12x^2 - 9x + 14)dx}$}{10}{}%
+\contentsline {subsection}{\numberline {13.3}Evaluate the indefinate integral $\mathbf {\DOTSI \intop \ilimits@ (12t^7 - t^2 - t + 3)dt}$}{10}{}%
+\contentsline {subsection}{\numberline {13.4}$\mathbf {\DOTSI \intop \ilimits@ (10w^4 + 9w^3 + 7w)dw}$}{10}{}%
+\contentsline {subsection}{\numberline {13.5}Find the indefinate integral of a function: (Use the basic indefinate integral formulas and rules)}{10}{}%
+\contentsline {subsection}{\numberline {13.6}$\DOTSI \intop \ilimits@ \frac {1 + \cos ^2x}{\sin ^2x} dx$}{10}{}%

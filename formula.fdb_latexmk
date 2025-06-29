@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1750817110.18088 "/home/dang/Learn/TeX_PhysicMath/formula.tex" "formula.pdf" "formula" 1750817111.02649 0
-  "/home/dang/Learn/TeX_PhysicMath/formula.tex" 1750817110.15396 10194 39c56e88e90da8fb0d68d924ff45d110 ""
+["pdflatex"] 1751202631.31343 "/home/dang/Learn/TeX_PhysicMath/formula.tex" "formula.pdf" "formula" 1751202632.38618 0
+  "/home/dang/Learn/TeX_PhysicMath/formula.tex" 1751202630.78165 10387 8c1e8d65eb1b170da1b718e7cae8b395 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -96,9 +96,9 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1750436695 5523539 cbe340ff87ac4cfddcdc6361a84e52ac ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1750436780 3599570 47aa6924ce3aacd7044aee6ce2c9898a ""
   "/usr/local/texlive/2025/texmf.cnf" 1750436687.7347 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "formula.aux" 1750817110.90292 1921 b91b0bfc431d9efc001de42d44689ccf "pdflatex"
-  "formula.tex" 1750817110.15396 10194 39c56e88e90da8fb0d68d924ff45d110 ""
-  "formula.toc" 1750817110.90492 1156 f2a9f0c38a26b9756daf72b13d99ec21 "pdflatex"
+  "formula.aux" 1751202632.2176 1921 b91b0bfc431d9efc001de42d44689ccf "pdflatex"
+  "formula.tex" 1751202630.78165 10387 8c1e8d65eb1b170da1b718e7cae8b395 ""
+  "formula.toc" 1751202632.2186 1156 f2a9f0c38a26b9756daf72b13d99ec21 "pdflatex"
   "img_formula/chord_length.png" 1750403030 51196 ebbf53971619a757ba34be9c03ca39f0 ""
   (generated)
   "formula.aux"

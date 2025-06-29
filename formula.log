@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.20)  25 JUN 2025 09:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.20)  29 JUN 2025 20:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -675,69 +675,69 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [1
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<./img_formula/chord_length.png, id=11, 468.75125pt x 303.1325pt>
+
+[2]
+<./img_formula/chord_length.png, id=20, 468.75125pt x 303.1325pt>
 File: ./img_formula/chord_length.png Graphic file (type png)
 <use ./img_formula/chord_length.png>
-Package pdftex.def Info: ./img_formula/chord_length.png  used on input line 102.
+Package pdftex.def Info: ./img_formula/chord_length.png  used on input line 106.
 (pdftex.def)             Requested size: 173.44534pt x 112.1619pt.
 
 
-[2]
-
 [3 <./img_formula/chord_length.png>]
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 192.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 196.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 192.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 196.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 192.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 196.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 192.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 196.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 192.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 196.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 192.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 196.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 192.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 196.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 192.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 196.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 193.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 197.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 193.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 197.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 193.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 197.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 193.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 197.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 193.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 197.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 193.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 197.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 193.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 197.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 193.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 197.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 194.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 198.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 194.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 198.
 
 
 
@@ -772,7 +772,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  70i,16n,67p,254b,311s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/vntex/vnr/vnbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/vntex/vnr/vnr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/vntex/vnr/vnr17.pfb>
-Output written on formula.pdf (6 pages, 222703 bytes).
+Output written on formula.pdf (6 pages, 222978 bytes).
 PDF statistics:
  101 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream
